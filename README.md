@@ -1,4 +1,4 @@
-![header](xtine.png)
+![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/xtine.png)
 
 🔘 Web/App Development 🔘 UX/UI Design 🔘 WordPress
 
