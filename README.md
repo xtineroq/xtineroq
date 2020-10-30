@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/header.gif)
 
-🔘 Web/App Development 🔘 UX/UI Design 🔘 WordPress
+🔘 Web/App Development 🔘 WordPress 🔘 Drip/Zoho EDM Design 🔘 Landing Page Design
 
 Let's connect! I'm happy to collaborate on any cool side projects.
 
