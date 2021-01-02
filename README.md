@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/header.gif)
+![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/github_header.gif)
 
 ✔️ Web/App Development  ✔️ WordPress  ✔️ Drip/Zoho EDM Design  ✔️ Landing Page Design
 
