@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/github_header.gif)
+![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/gh_header.gif)
 
 ✔️ Web/App Development  ✔️ WordPress  ✔️ Drip/Zoho EDM Design  ✔️ Landing Page Design
 
@@ -23,6 +23,6 @@ Let's connect! I'm happy to collaborate on any cool side projects.
 [![xtineroq-stats](https://github-readme-stats.vercel.app/api?username=xtineroq&show_icons=true&theme=merko)](https://github.com/xtineroq/github-readme-stats)
 
 ### Find me around the web:
-- 📩 [Email Me](mailto:mcroque89@gmail.com)
-- 🌏 [Visit my Portfolio](https://xtineroq.github.io/)
-- ➡️ [Find me on LinkedIn](https://www.linkedin.com/in/mcroque/)
+- 📩  [Email Me](mailto:mcroque89@gmail.com)
+- 🌏  [Visit my Portfolio](https://xtineroq.github.io/)
+- ➡️  [Find me on LinkedIn](https://www.linkedin.com/in/mcroque/)
