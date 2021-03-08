@@ -26,5 +26,5 @@ Let's connect! I'm happy to collaborate on any cool side projects.
 
 ### Find me around the web:
 - 📩 &nbsp;[Email Me](mailto:mcroque89@gmail.com)
-- 🌏 &nbsp;[Visit my Portfolio](https://xtineroq.github.io/)
+- 🌏 &nbsp;[Visit my Portfolio](#)
 - ➡️ &nbsp;[Find me on LinkedIn](https://www.linkedin.com/in/mcroque/)
