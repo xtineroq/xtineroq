@@ -25,6 +25,6 @@ Let's connect! I'm happy to collaborate on any cool side projects.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtineroq&layout=compact&theme=gotham)](https://github.com/xtineroq/github-readme-stats)
 
 ### Find me around the web:
-- 📩 ![image](https://user-images.githubusercontent.com/63733238/110788927-60d90100-82c3-11eb-87fb-2e399b4e56af.png)&nbsp;[Email Me](mailto:mcroque89@gmail.com)
-- 🌏 ![image](https://user-images.githubusercontent.com/63733238/110789217-b9a89980-82c3-11eb-8940-5521570e9a12.png)&nbsp;[Visit my Portfolio](#)
-- ➡️ ![image](https://user-images.githubusercontent.com/63733238/110789331-dd6bdf80-82c3-11eb-8b68-d426de369974.png)&nbsp;[Find me on LinkedIn](https://www.linkedin.com/in/mcroque/)
+📩 &nbsp;[Email Me](mailto:mcroque89@gmail.com)\
+🌏 &nbsp;[Visit my Portfolio](#)\
+🔗 &nbsp;[Find me on LinkedIn](https://www.linkedin.com/in/mcroque/)
