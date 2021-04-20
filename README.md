@@ -1,8 +1,11 @@
 ![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/gh_header.gif)
 
-✔️ &nbsp;Web/App Development  ✔️ &nbsp;Project Management  ✔️ &nbsp;WordPress  ✔️ &nbsp;Keap|Drip|Zoho EDM Design  ✔️ &nbsp;Landing Page Design
+- 🔭 I’m currently working on a private side project
+- 🌱 I’m currently learning Google Tag Manager and Analytics
+- 👯 I’m looking to collaborate on React apps with a distinct functionality
+- 💬 Ask me about anything Tech and Digital Marketing
 
-Let's connect! I'm happy to collaborate on any cool side projects.
+✔️ &nbsp;Web/App Development  ✔️ &nbsp;Project Management  ✔️ &nbsp;WordPress  ✔️ &nbsp;EDM Templates  ✔️ &nbsp;Landing Page Design
 
 ### Technologies and Tools
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=00cccc)
@@ -25,6 +28,6 @@ Let's connect! I'm happy to collaborate on any cool side projects.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtineroq&layout=compact&theme=gotham)](https://github.com/xtineroq/github-readme-stats)
 
 ### Find me around the web:
-📩 &nbsp;[Email Me](mailto:mcroque89@gmail.com)\
-🌏 &nbsp;[Visit my Portfolio](#)\
-🔗 &nbsp;[Find me on LinkedIn](https://www.linkedin.com/in/mcroque/)
+- 📩 &nbsp;[Email Me](mailto:mcroque89@gmail.com)
+- 🌏 &nbsp;[Visit my Portfolio](#)
+- ➡️ &nbsp;[Find me on LinkedIn](https://www.linkedin.com/in/mcroque/)
