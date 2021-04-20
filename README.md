@@ -1,11 +1,12 @@
 ![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/gh_header.gif)
 
+&nbsp;
+
 - 🔭 I’m currently working on a private side project
 - 🌱 I’m currently learning Google Tag Manager and Analytics
 - 👯 I’m looking to collaborate on React apps with a distinct functionality
 - 💬 Ask me about anything Tech and Digital Marketing
 
-&nbsp;
 &nbsp;
 
 ✔️ &nbsp;Web/App Development  ✔️ &nbsp;Project Management  ✔️ &nbsp;WordPress  ✔️ &nbsp;EDM Templates  ✔️ &nbsp;Landing Page Design
