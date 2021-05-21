@@ -2,7 +2,7 @@
 
 ### About Me
 - 🔭 I’m currently working on a private side project
-- 🌱 I’m currently learning Google Tag Manager and Analytics
+- 🌱 I’m currently learning GTM and Python
 - 👯 I’m looking to collaborate on React apps with a distinct functionality
 - 💬 Ask me about anything Tech and Digital Marketing
 
