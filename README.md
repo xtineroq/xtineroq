@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/Hello.gif)
+![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/GitHub-header.gif)
 
 ### About Me
 - 🔭 I’m currently working on a private side project and [IMBA](https://imba.finance/)
