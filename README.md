@@ -1,7 +1,7 @@
 ![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/GitHub-header.gif)
 
 ### About Me
-- 🔭 I’m currently working on a private side project and [IMBA](https://imba.finance/)
+- 🔭 I’m currently working on a private side project and [Conquerors of Irium](https://conquerorsofirium.com/)
 - 🌱 I’m currently learning GTM and Solidity
 - 👯 I'm looking to collaborate with a Blockchain Developer on an existing project
 - 💬 Ask me about anything Tech and Digital Marketing
