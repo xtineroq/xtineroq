@@ -32,8 +32,3 @@
 [![xtineroq-stats](https://github-readme-stats.vercel.app/api?username=xtineroq&count_private=true&show_icons=true&theme=gotham)](https://github.com/xtineroq/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtineroq&layout=compact&theme=gotham)](https://github.com/xtineroq/github-readme-stats)
-
-### Find me around the web:
-- 📩 &nbsp;[Email Me](mailto:mcroque89@gmail.com)
-- 🌏 &nbsp;[Visit my Portfolio - under construction](#)
-- ➡️ &nbsp;[Find me on LinkedIn](https://www.linkedin.com/in/mcroque/)
