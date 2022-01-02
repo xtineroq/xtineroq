@@ -1,8 +1,8 @@
 ![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/GitHub-header.gif)
 
 ### About Me
-- 🔭 I’m currently working on a private side project and [Conquerors of Irium](https://conquerorsofirium.com/)
-- 🌱 I’m currently learning GTM and Solidity
+- 🔭 I’m currently working on [Conquerors of Irium](https://conquerorsofirium.com/) and [Champion Hunters](https://championhuntersgame.com/)
+- 🌱 I’m currently learning Solidity
 - 👯 I'm looking to collaborate with a Blockchain Developer on an existing project
 - 💬 Ask me about anything Tech and Digital Marketing
 
