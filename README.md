@@ -2,7 +2,7 @@
 
 ![championhunters](https://raw.githubusercontent.com/xtineroq/xtineroq/master/ch-banner.png)
 
-###[Champion Hunters](https://championhuntersgame.com/) will be available soon on PC, Android and iOS. Visit our website for more info.
+### [Champion Hunters](https://championhuntersgame.com/) will be available soon on PC, Android and iOS. Visit our website for more info.
 - [#1 Top 10 Best New MMORPG Games](https://www.youtube.com/watch?v=zs7Mp_-msgs)
 - [Gameplay Preview|New Blockchain (NFT)](https://www.youtube.com/watch?v=6tmBdudo1Lg)
 
