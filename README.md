@@ -1,12 +1,10 @@
 ![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/GitHub-header.gif)
+
 ![championhunters](https://raw.githubusercontent.com/xtineroq/xtineroq/master/ch-banner.png)
 
-### About Me
-- 🔭 I’m currently working on [Conquerors of Irium](https://conquerorsofirium.com/) and [Champion Hunters](https://championhuntersgame.com/)
-- 🌱 I’m currently learning Solidity
-- 👯 I'm looking to collaborate with a Blockchain Developer on an existing project
-- 💬 Ask me about anything Tech and Digital Marketing
-
+[Champion Hunters](https://championhuntersgame.com/) will be available soon on PC, Android and iOS. Visit our website for more info.
+[#1 Top 10 Best New MMORPG Games](https://www.youtube.com/watch?v=zs7Mp_-msgs)
+[Gameplay Preview|New Blockchain (NFT)](https://www.youtube.com/watch?v=6tmBdudo1Lg)
 
 ### Technologies and Tools
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=006666)
