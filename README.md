@@ -1,4 +1,5 @@
 ![header](https://raw.githubusercontent.com/xtineroq/xtineroq/master/GitHub-header.gif)
+![championhunters](https://raw.githubusercontent.com/xtineroq/xtineroq/master/ch-banner.png)
 
 ### About Me
 - 🔭 I’m currently working on [Conquerors of Irium](https://conquerorsofirium.com/) and [Champion Hunters](https://championhuntersgame.com/)
