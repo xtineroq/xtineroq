@@ -6,9 +6,7 @@
 - [#1 Top 10 Best New MMORPG Games](https://www.youtube.com/watch?v=zs7Mp_-msgs)
 - [Gameplay Preview|New Blockchain (NFT)](https://www.youtube.com/watch?v=6tmBdudo1Lg)
 
-![gametaverse](https://raw.githubusercontent.com/xtineroq/xtineroq/master/pic1.jpg)
-![genx](https://raw.githubusercontent.com/xtineroq/xtineroq/master/pic2.jpg)
-![p2e](https://raw.githubusercontent.com/xtineroq/xtineroq/master/pic3.jpg)
+![gametaverse](https://raw.githubusercontent.com/xtineroq/xtineroq/master/pic1.jpg) ![genx](https://raw.githubusercontent.com/xtineroq/xtineroq/master/pic2.jpg) ![p2e](https://raw.githubusercontent.com/xtineroq/xtineroq/master/pic3.jpg)
 
 ### Technologies and Tools
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=006666)
